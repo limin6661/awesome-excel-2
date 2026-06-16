@@ -6,6 +6,7 @@ A curated list of awesome Microsoft Excel resources
 - [Microsoft Excel Addin Store](https://appsource.microsoft.com/en-us/marketplace/apps?src=office&page=1&product=office%3Bexcel) - An online catalog for Excel addins
 - [ASAP Utilities](https://www.asap-utilities.com/) - A popular Excel addin that adds various handy features to Excel.
 - [CustomFormats.com](https://customformats.com) - An online scratchpad for building custom formats for Excel and Google Sheets.
+- [Ecommerce Profit Tracker PRO](https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit) - A ready-to-use Excel/Google Sheets workbook for ecommerce sellers (Etsy, Shopify, Amazon, eBay). Calculates true net profit per order after fees, ad spend and COGS. 7 worksheets, pure formulas, no macros.
 
 ## Learning
 - [Spreadsheet Tips](https://gridmaster.io/tips) - An animated spreadsheet tip sent to your inbox each week.
